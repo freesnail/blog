@@ -25,7 +25,7 @@ SECRET_KEY = '$8^o!uo9v18vwl8pluk%io&bxfsrbo98j=ji6iu6i!ywxn0v9q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [tracydawn.pythonanywhere.com]
 
 
 # Application definition
